@@ -1,0 +1,36 @@
+{
+  "build": "py312hd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python 3.12.7.*",
+    "python_abi * *_cp312"
+  ],
+  "extracted_package_dir": "C:\\Users\\i.hasanov\\AppData\\Local\\anaconda3\\pkgs\\cpython-3.12.7-py312hd8ed1ab_0",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "cpython-3.12.7-py312hd8ed1ab_0.conda",
+  "license": "Python-2.0",
+  "link": {
+    "source": "C:\\Users\\i.hasanov\\AppData\\Local\\anaconda3\\pkgs\\cpython-3.12.7-py312hd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "f0d1309310498284ab13c9fd73db4781",
+  "name": "cpython",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\i.hasanov\\AppData\\Local\\anaconda3\\pkgs\\cpython-3.12.7-py312hd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "9bbd08c83cc9c3142755b96dc5f3e0f0370d7afdb773c8285359b31e7ce96f0a",
+  "size": 44632,
+  "subdir": "noarch",
+  "timestamp": 1728057282000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/cpython-3.12.7-py312hd8ed1ab_0.conda",
+  "version": "3.12.7"
+}

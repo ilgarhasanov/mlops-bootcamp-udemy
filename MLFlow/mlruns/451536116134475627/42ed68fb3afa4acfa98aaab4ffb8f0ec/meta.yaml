@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451536116134475627/42ed68fb3afa4acfa98aaab4ffb8f0ec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '451536116134475627'
+lifecycle_stage: active
+run_id: 42ed68fb3afa4acfa98aaab4ffb8f0ec
+run_name: omniscient-robin-311
+run_uuid: 42ed68fb3afa4acfa98aaab4ffb8f0ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731620081577
+status: 1
+tags: []
+user_id: i.hasanov
