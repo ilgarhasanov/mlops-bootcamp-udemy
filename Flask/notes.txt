@@ -1,0 +1,14 @@
+----
+api.py
+
+to see the methods go to Postman and insert the url. 
+
+GET method: If you insert the GET methods you'll see the retreived items.
+
+POST method:If you select POST method, you'll add new item. For this:  
+go to Body -> raw -> choose JSON format -> insert {"name": "Updated item", "description": "This is a updated item"}
+
+PUT method: Updated the selected item with given JSON
+
+DELETE method: Delete the selected item
+----------------------------------------------------------------
