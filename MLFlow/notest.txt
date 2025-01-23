@@ -1,0 +1,4 @@
+in mlflow url choose multiple experiments and press the compare button to compare them.
+
+all the experiments are saved in the mlruns folder 
+

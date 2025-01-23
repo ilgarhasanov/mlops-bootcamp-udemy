@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/data_science/mlops-bootcamp-udemy/MLFlow/1-MLproject/mlruns/0/e3496c8d3e9f404fb950f33a6c3cbd70/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3496c8d3e9f404fb950f33a6c3cbd70
+run_name: clumsy-chimp-284
+run_uuid: e3496c8d3e9f404fb950f33a6c3cbd70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737632814650
+status: 1
+tags: []
+user_id: i.hasanov
