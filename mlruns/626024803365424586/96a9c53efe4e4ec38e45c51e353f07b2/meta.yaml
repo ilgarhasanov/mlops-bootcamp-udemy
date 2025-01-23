@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/626024803365424586/96a9c53efe4e4ec38e45c51e353f07b2/artifacts
+end_time: 1737620991441
+entry_point_name: ''
+experiment_id: '626024803365424586'
+lifecycle_stage: active
+run_id: 96a9c53efe4e4ec38e45c51e353f07b2
+run_name: colorful-chimp-914
+run_uuid: 96a9c53efe4e4ec38e45c51e353f07b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737620991375
+status: 3
+tags: []
+user_id: i.hasanov
