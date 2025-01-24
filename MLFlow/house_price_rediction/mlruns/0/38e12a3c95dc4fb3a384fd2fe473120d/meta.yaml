@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/data_science/mlops-bootcamp-udemy/MLFlow/house_price_rediction/mlruns/0/38e12a3c95dc4fb3a384fd2fe473120d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38e12a3c95dc4fb3a384fd2fe473120d
+run_name: auspicious-shad-982
+run_uuid: 38e12a3c95dc4fb3a384fd2fe473120d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737708747584
+status: 1
+tags: []
+user_id: i.hasanov

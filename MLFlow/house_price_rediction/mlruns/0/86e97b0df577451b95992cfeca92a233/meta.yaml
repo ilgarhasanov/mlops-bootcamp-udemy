@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/data_science/mlops-bootcamp-udemy/MLFlow/house_price_rediction/mlruns/0/86e97b0df577451b95992cfeca92a233/artifacts
+end_time: 1737708716833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86e97b0df577451b95992cfeca92a233
+run_name: bedecked-stork-225
+run_uuid: 86e97b0df577451b95992cfeca92a233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737708429588
+status: 4
+tags: []
+user_id: i.hasanov

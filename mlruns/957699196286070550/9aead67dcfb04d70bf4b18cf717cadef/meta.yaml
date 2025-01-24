@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/957699196286070550/9aead67dcfb04d70bf4b18cf717cadef/artifacts
+end_time: 1737719262874
+entry_point_name: ''
+experiment_id: '957699196286070550'
+lifecycle_stage: active
+run_id: 9aead67dcfb04d70bf4b18cf717cadef
+run_name: chill-deer-350
+run_uuid: 9aead67dcfb04d70bf4b18cf717cadef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737719262743
+status: 4
+tags: []
+user_id: i.hasanov

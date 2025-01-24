@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/726835475197457200/8c4a509ca1524fcc82fdf6da5af8a569/artifacts
+end_time: 1737649338349
+entry_point_name: ''
+experiment_id: '726835475197457200'
+lifecycle_stage: active
+run_id: 8c4a509ca1524fcc82fdf6da5af8a569
+run_name: selective-moose-209
+run_uuid: 8c4a509ca1524fcc82fdf6da5af8a569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737649338210
+status: 3
+tags: []
+user_id: i.hasanov

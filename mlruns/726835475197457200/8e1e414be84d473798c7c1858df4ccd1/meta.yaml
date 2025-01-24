@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/726835475197457200/8e1e414be84d473798c7c1858df4ccd1/artifacts
+end_time: 1737649528039
+entry_point_name: ''
+experiment_id: '726835475197457200'
+lifecycle_stage: active
+run_id: 8e1e414be84d473798c7c1858df4ccd1
+run_name: languid-roo-645
+run_uuid: 8e1e414be84d473798c7c1858df4ccd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737649527799
+status: 4
+tags: []
+user_id: i.hasanov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/957699196286070550/84a1b6eecd3d44208e61b07c1081e549/artifacts
+end_time: 1737724637499
+entry_point_name: ''
+experiment_id: '957699196286070550'
+lifecycle_stage: active
+run_id: 84a1b6eecd3d44208e61b07c1081e549
+run_name: entertaining-elk-178
+run_uuid: 84a1b6eecd3d44208e61b07c1081e549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737724637312
+status: 4
+tags: []
+user_id: i.hasanov

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/726835475197457200/7a1a23a92a5d416d8ffc3dcceef58023/artifacts
+end_time: 1737649304715
+entry_point_name: ''
+experiment_id: '726835475197457200'
+lifecycle_stage: active
+run_id: 7a1a23a92a5d416d8ffc3dcceef58023
+run_name: fearless-shark-351
+run_uuid: 7a1a23a92a5d416d8ffc3dcceef58023
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737649304547
+status: 4
+tags: []
+user_id: i.hasanov

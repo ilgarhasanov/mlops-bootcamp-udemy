@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/957699196286070550/6724b82d392f42ae907d2e3666e6002e/artifacts
+end_time: 1737724645867
+entry_point_name: ''
+experiment_id: '957699196286070550'
+lifecycle_stage: active
+run_id: 6724b82d392f42ae907d2e3666e6002e
+run_name: rogue-sheep-133
+run_uuid: 6724b82d392f42ae907d2e3666e6002e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737724645688
+status: 4
+tags: []
+user_id: i.hasanov

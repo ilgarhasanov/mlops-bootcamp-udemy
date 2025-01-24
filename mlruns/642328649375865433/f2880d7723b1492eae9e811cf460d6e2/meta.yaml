@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/642328649375865433/f2880d7723b1492eae9e811cf460d6e2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '642328649375865433'
+lifecycle_stage: active
+run_id: f2880d7723b1492eae9e811cf460d6e2
+run_name: nosy-calf-288
+run_uuid: f2880d7723b1492eae9e811cf460d6e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737718337321
+status: 1
+tags: []
+user_id: i.hasanov
